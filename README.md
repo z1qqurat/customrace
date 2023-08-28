@@ -1,5 +1,5 @@
 # How to install script:
-## Download:
+### Download:
 **1) CustomRace.luac -> {gta folder}/moonloader/CustomRace.luac
 OPTIONAL: (if you don't have mimgui and fAwesome6 icons):
 2) lib folder -> {gta folder}/moonloader/lib/mimggui and {gta folder}/moonloader/lib/fAwesome6.lua**
